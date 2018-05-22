@@ -14,4 +14,3 @@ switch (tanken) {
     alert("Dit is niet geldig om te tanken")
     break;
 }
-console.log("Hello World");
